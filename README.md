@@ -1,1 +1,1 @@
-# Splunk-SIEM-Lab---SSH-Log-Analysis
+# Splunk-SIEM-Lab-SSH-Log-Analysis
