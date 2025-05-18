@@ -1,4 +1,4 @@
-# Splunk SIEM Lab - SSH Log Analysis
+# Splunk SIEM Lab - SSH Log Analysis 🔍
 
 
 <h2>Description</h2>
