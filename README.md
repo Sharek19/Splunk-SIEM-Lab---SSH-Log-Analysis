@@ -1,5 +1,7 @@
 # Splunk SIEM Lab - SSH Log Analysis 🔍
 
+![image](https://github.com/user-attachments/assets/89d55743-da4d-48bf-a679-7d296c802c6d)
+
 
 <h2>Description</h2>
 In this hands-on project, I explored the basics of Splunk Cloud, a powerful SIEM platform, by uploading log data, running search queries, and performing log analysis to detect security issues.
